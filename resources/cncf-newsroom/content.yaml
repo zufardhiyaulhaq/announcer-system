@@ -84,7 +84,7 @@ content:
 - title: 'VentureBeat: “CNCF, Google, and HackerOne launch Kubernetes bug bounty program”'
   url: https://www.cncf.io/news/2020/01/15/venturebeatcncf-google-and-hackerone-launch-kubernetes-bug-bounty-program/
   kind: In The News
-  isDelivered: true
+  isDelivered: false
 - title: 'TechCrunch: “Kubernetes gets a bug bounty program”'
   url: https://www.cncf.io/news/2020/01/15/techcrunch-kubernetes-gets-a-bug-bounty-program/
   kind: In The News
